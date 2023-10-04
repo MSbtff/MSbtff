@@ -11,6 +11,7 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_css-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)
 ![ionic](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Reactquery](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 
 ### Tools
