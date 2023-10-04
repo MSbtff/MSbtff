@@ -9,7 +9,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind css](https://img.shields.io/badge/Tailwind-css-#06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)
+![Tailwind css](https://img.shields.io/badge/Tailwind-css-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)
 ![ionic](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 
