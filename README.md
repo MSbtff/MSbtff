@@ -3,7 +3,7 @@
 
 ### FE
 <hr>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,redux, vite,jest,vitest,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,redux,vite,jest,vitest,grafana)](https://skillicons.dev)
 
 
 
