@@ -1,5 +1,3 @@
-## 🤪 Hello,  I'm frontend developer.
-즐기며 살자 - 🔥
 
 ### FE
 <hr>
