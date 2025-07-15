@@ -10,7 +10,8 @@
 
 ### BE
 <hr>
-[![My Skills](https://skillicons.dev/icons?i=node.js,nest.js,nginx,mysql,supabase,aws &perline=4)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=node.js,nest.js,nginx,mysql,supabase,aws&perline=4)](https://skillicons.dev)
 
 ### Tools
 <hr>
