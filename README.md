@@ -16,7 +16,7 @@
 ### Tools
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,notion,jira,slack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,notion)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSbtff&layout=compact)](https://github.com/MSbtff/github-readme-stats)
